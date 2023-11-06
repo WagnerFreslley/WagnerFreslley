@@ -4,7 +4,7 @@
 
 🐍 Aprendendo Python Avançado
 
-🎓 Andamento na graduação de Analise e Desenvolvimento de Sistemas - FIAP
+🎓 Cursando graduação de Analise e Desenvolvimento de Sistemas - FIAP
 
 🧠 Entusiasmado com Machine Learning
 
