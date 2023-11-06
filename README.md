@@ -4,11 +4,11 @@
 
 🐍 Aprendendo Python Avançado
 
-🎓 Andamento graduação de Analise e Desenvolvimento de Sistemas - FIAP
+🎓 Andamento na graduação de Analise e Desenvolvimento de Sistemas - FIAP
 
-🧠 Entusiasmada com Machine Learning
+🧠 Entusiasmado com Machine Learning
 
-🖌 Curiosa sobre novas tecnologias!!
+🖌 Curioso sobre novas tecnologias!!
 
 
 ## Redes
