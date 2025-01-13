@@ -2,7 +2,7 @@
 
 🖥 Tenho experiência como Analista de Sistemas e Processos, com conhecimentos em:
 
-## Python | ## SQL | ## Power BI | ## GIT | ## Docker | ## ServiceNow | ## PostgreSQL | ## MySQL | ## Figma | ## Linux
+Python | SQL | Power BI | GIT | Docker | ServiceNow | PostgreSQL | MySQL | Figma | Linux
 
 🐍 Atualmente, estou aprendendo Python Avançado pela Alura.
 
