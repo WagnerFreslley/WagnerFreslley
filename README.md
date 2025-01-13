@@ -1,14 +1,18 @@
 ## Olá! Eu sou o Wagner Freslley 🖐️
 
-🖥 Possuo conhecimento como desenvolvedor Backend e Front-End -> (Python | SQL Server | Java | MongoDB | GIT | Docker | Postman | CC3 | HTML)
+🖥 Tenho experiência como Analista de Sistemas e Processos, com conhecimentos em:
 
-🐍 Aprendendo Python Avançado
+## Python | ## SQL | ## Power BI | ## GIT | ## Docker | ## ServiceNow | ## PostgreSQL | ## MySQL | ## Figma | ## Linux
 
-🎓 Cursando graduação de Analise e Desenvolvimento de Sistemas - FIAP
+🐍 Atualmente, estou aprendendo Python Avançado pela Alura.
 
-🧠 Entusiasmado com Machine Learning
+🎓 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta (conclusão em 2026).
 
-🖌 Curioso sobre novas tecnologias!!
+📊 Apaixonado por dados, automação de processos e por criar soluções tecnológicas que geram valor para as empresas.
+
+🧠 Entusiasta de Machine Learning, Blockchain e metodologias ágeis.
+
+🚀 Sempre curioso em busca de novas tecnologias para crescer como profissional e contribuir para o sucesso das equipes em que atuo!
 
 
 ## Redes
@@ -27,10 +31,7 @@
 <div style="display: flex; align-items: center;">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="60"/>
-  <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/java.svg" width="40" height="40" alt="Java">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80" height="60"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="80" height="80"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
 </div>
